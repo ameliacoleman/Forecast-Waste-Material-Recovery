@@ -1,5 +1,5 @@
 # Forecast-Waste-Material-Recovery
-This script reads UK solar PV capacity data, calculates new installs each year, and converts MW to tonnes using panel efficiency. It projects capacity from 2008 to 2055, then uses a Weibull lifetime model (low/base/high) to forecast when panels become waste. PV ICE data splits that waste into materials, and estimates how much c-Si waste could be recycled. This repository presents forecasts of end-of-life solar photovoltaic (PV) panel waste in the UK from 2008 to 2055. It shows how much PV waste is expected each year and in total, under three scenarios for how long panels last.
+This script reads UK solar photovoltaic (PV) capacity data, calculates new installs each year, and converts MW to tonnes using panel efficiency. It projects capacity from 2008 to 2055, then uses a Weibull lifetime model (low/base/high) to forecast when panels become waste. Photovoltaics in the Circular Economy (PV ICE) data splits that waste into materials, and estimates how much c-Si waste could be recycled. This repository presents forecasts of end-of-life solar photovoltaic panel waste in the UK from 2008 to 2055. It shows how much PV waste is expected each year and in total, under three scenarios for how long panels last.
 
 Contents
 PV_annual_waste.png: forecast annual PV waste (tonnes) under Low, Base and High scenarios
